@@ -23,7 +23,7 @@ export const HeroSection = () =>{
         </div>
 
         <div className="hero-image">
-          <img src="..\public\earth.jpeg"
+          <img src="\earth.jpeg"
           alt="world"
           className="banner-image"/>
         </div>
